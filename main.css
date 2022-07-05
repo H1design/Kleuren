@@ -1,0 +1,86 @@
+/* CSS behorende bij kleureneendjes.html */
+
+
+body{
+  background: #D1FFFC;
+  color: #330000;
+}
+header{
+  background: #52A7B3;
+  color: #660000;
+  padding: 35px 35px 35px 45px;
+    height: 125px;
+}
+h1{ background: #660000;
+  color: #FFB375;
+   text-align: center;
+}
+h2{
+  background: #660000;
+    color: #FFB375;
+     text-align: center;
+}
+
+img{
+  height: 120px;
+  width: 120px;
+  margin-top: 13px;
+
+}
+
+#tabel {
+  border: outset 5px maroon;
+
+}
+
+#tabel td{
+  border: 1px solid black;
+  font-weight: bolder;
+  padding: 6px;
+  text-align: center;
+}
+
+#a1{background: #C62828; height: 150px;
+width: 200px;
+}
+#a2{background: #AD1457; height: 150px;
+width: 200px;
+}
+#a3{background: #6A1B9A;height: 150px;
+width: 200px;}
+#a4{background: #4527A0;height: 150px;
+width: 200px;}
+#b1{background: #283593; height: 150px;
+width: 200px;}
+#b2{background: #1565C0;height: 150px;
+width: 200px;}
+#b3{background: #0277BD;height: 150px;
+width: 200px;height: 150px;
+width: 200px;}
+#b4{background: #00838F;height: 150px;
+width: 200px;}
+#c1{background: #00695C;height: 150px;
+width: 200px;}
+#c2{background: #2E7D32;height: 150px;
+width: 200px;}
+#c3{background: #558B2F;height: 150px;
+width: 200px;}
+#c4{background: #9E9D24;height: 150px;
+width: 200px;}
+#d1{background: #F9A825;height: 150px;
+width: 200px;}
+#d2{background: #FF8F00;height: 150px;
+width: 200px;}
+#d3{background: #EF6C00;height: 150px;
+width: 200px;height: 150px;
+width: 200px;}
+#d4{background: #D84315;height: 150px;
+width: 200px;}
+
+footer{
+  background: #52A7B3;
+  color: #660000;
+  padding: 15px;
+  height: 75px;
+  text-align: center;
+}
